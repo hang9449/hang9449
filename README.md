@@ -1,16 +1,22 @@
-## Hi there 👋
+# hey
 
-<!--
-**hang9449/hang9449** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Just another person who likes building things with code.
 
-Here are some ideas to get you started:
+### About me
+- Currently exploring software development and picking up new tools along the way
+- Spending most of my time writing code, reading docs, and breaking stuff until it works
+- Still figuring things out — learning by doing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech I use / mess around with
+- Python
+- JavaScript / TypeScript
+- Git & GitHub
+- Linux
+- HTML / CSS
+
+### Projects
+Nothing public worth showing yet. Will update this section when something is ready.
+
+---
+
+Feel free to poke around or say hi.
